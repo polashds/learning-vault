@@ -122,3 +122,4 @@ Agentic AI refers to **AI systems with stronger autonomy**, **goal-directed beha
 * **Agentic AI** brings *autonomy, adaptability, and tool-use* to a new level, ideal for real-world problem solving without step-by-step prompting.
 
 Would you like a diagram or carousel post version of this for LinkedIn or a YouTube script version?
+h
