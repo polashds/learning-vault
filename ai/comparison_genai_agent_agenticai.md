@@ -1,7 +1,5 @@
 # Compare and contrast GenAI, Agent, and Agentic AI
-Here's a clear comparison of **GenAI (Generative AI)**, **Agent**, and **Agentic AI**, focusing on **definitions**, **capabilities**, **roles**, and **examples**:
 
----
 
 ### 🔹 1. **Generative AI (GenAI)**
 
@@ -114,12 +112,3 @@ Agentic AI refers to **AI systems with stronger autonomy**, **goal-directed beha
 | **Examples**            | ChatGPT, Midjourney | LangChain Agent, AutoGPT | Devin, Superagent, OpenAI Devs |
 
 ---
-
-### ✅ Conclusion:
-
-* **GenAI** gives *raw intelligence and creativity* but no initiative.
-* **Agents** *execute tasks* using logic and tools, sometimes using GenAI.
-* **Agentic AI** brings *autonomy, adaptability, and tool-use* to a new level, ideal for real-world problem solving without step-by-step prompting.
-
-Would you like a diagram or carousel post version of this for LinkedIn or a YouTube script version?
-h
